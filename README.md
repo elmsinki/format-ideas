@@ -1,6 +1,6 @@
 # Format Ideas
 
-A digital home for people's ideas for Elmsinki, so that we can keep track of them
+A digital home for people's ideas for Elmsinki, so that we can keep track of them.
 
 ## Ideas
 
@@ -53,4 +53,4 @@ A digital home for people's ideas for Elmsinki, so that we can keep track of the
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
