@@ -2,6 +2,8 @@
 
 A digital home for people's ideas for Elmsinki, so that we can keep track of them.
 
+![Coloured post-its with ideas bunched together](./notes.jpg)
+
 ## Ideas
 
 - "Real life" experiences with elm
